@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UchennaUzor.MathGame": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
